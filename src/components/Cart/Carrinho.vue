@@ -65,7 +65,7 @@ export default {
     /* eslint-disable prefer-arrow-callback, no-console, func-names, no-use-before-define, comma-dangle */
     const target = document.querySelectorAll("[data-anime]");
     function animeScroll() {
-      const windowTop = window.pageYOffset + window.innerHeight * 0.75;
+      const windowTop = window.pageYOffset + (window.innerHeight * 4) / 3;
       target.forEach(function (element) {
         if (windowTop > element.offsetTop) {
           element.classList.add("animate");
@@ -94,12 +94,12 @@ export default {
   transform: translate3d(-50px, 0, 0);
 }
 
-[data-anime="right"] {
+[data-anime="top"] {
   transform: translate3d(0, -50px, 0);
 }
 
-[data-anime="top"] {
-  transform: translate3d(50px, 0, 0);
+[data-anime="right"] {
+  transform: translate3d(0, 0, -50px);
 }
 
 [data-anime].animate {

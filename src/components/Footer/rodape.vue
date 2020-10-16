@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer animate" data-anime="top">
+  <footer class="footer animate">
     <div class="container footer-row">
       <div class="footer-social">
         <Instagram />

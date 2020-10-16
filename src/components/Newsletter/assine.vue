@@ -54,7 +54,7 @@ export default {
   margin-top: 10px;
   margin-bottom: 15px;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 .assine input {
@@ -90,6 +90,9 @@ export default {
 }
 
 @media (max-width: 739px) {
+  .assine {
+    padding: 40px 20px;
+  }
   .assine-info {
     margin: 0 0 20px 0;
   }
@@ -100,6 +103,11 @@ export default {
 
   .assine form {
     margin: 0px;
+  }
+
+  .assine-info p,
+  .assine form label {
+    font-size: 1rem;
   }
 }
 
