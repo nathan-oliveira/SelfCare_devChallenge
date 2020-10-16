@@ -111,7 +111,7 @@ export default {
   }
 }
 
-@media (max-width: 371px) {
+@media (max-width: 391px) {
   .assine button,
   .assine input {
     width: 100%;
