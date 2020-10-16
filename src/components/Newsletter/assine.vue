@@ -83,13 +83,13 @@ export default {
   cursor: pointer;
 }
 
-@media (min-width: 740px) {
+@media (min-width: 942px) {
   .assine form {
     margin-left: 200px;
   }
 }
 
-@media (max-width: 739px) {
+@media (max-width: 779px) {
   .assine {
     padding: 40px 20px;
   }
