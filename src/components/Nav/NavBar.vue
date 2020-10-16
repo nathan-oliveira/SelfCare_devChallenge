@@ -195,13 +195,13 @@ export default {
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 408px) {
   .menu {
     padding: 20px 20px !important;
   }
 
   .menu-nav ul li a {
-    padding-left: 20px;
+    padding-left: 10px;
   }
 
   .menu-logo,
