@@ -1,0 +1,40 @@
+body,
+h1,
+h2,
+p,
+ul,
+li,
+a {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  color: #161616;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+@media (max-width: 739px) {
+  .container {
+    flex-direction: column;
+    max-width: 500px;
+  }
+}
+
+a {
+  text-decoration: none;
+}
+
+svg {
+  margin: 0 10px;
+}
