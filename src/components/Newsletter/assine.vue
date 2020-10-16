@@ -94,7 +94,8 @@ export default {
     margin: 0 0 20px 0;
   }
 
-  .assine button {
+  .assine {
+    margin-top: 40px;
   }
 
   .assine form {

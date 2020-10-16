@@ -1,6 +1,6 @@
 <template>
   <footer class="footer animate" data-anime="top">
-    <div class="container">
+    <div class="container footer-row">
       <div class="footer-social">
         <Instagram />
         <Facebook />
@@ -65,6 +65,14 @@ svg {
   .footer-img,
   .footer p {
     margin: 10px 0px;
+  }
+
+  .footer-row {
+    flex-direction: row !important;
+  }
+
+  svg {
+    width: 30px;
   }
 }
 </style>
