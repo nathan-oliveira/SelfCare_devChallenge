@@ -1,55 +1,55 @@
 <template>
   <section class="produtos">
-    <div class="container">
-      <div class="produtos-item" data-anime="left">
+    <div class="container" data-anime="left">
+      <div class="produtos-item">
         <img src="../../assets/gabrielle-henderson-1DMNn6gBbwQ-unsplash.jpg" />
         <h2>Lorem ipsum dolor sit</h2>
         <h3>R$ <span>50,00</span></h3>
       </div>
 
-      <div class="produtos-item" data-anime="top">
+      <div class="produtos-item">
         <img src="../../assets/devin-avery-bMH8ub9z1_U-unsplash.jpg" />
         <h2>Lorem ipsum dolor sit</h2>
         <h3>R$ <span>50,00</span></h3>
       </div>
 
-      <div class="produtos-item" data-anime="right">
+      <div class="produtos-item">
         <img src="../../assets/devin-avery-BRVqq2uak4E-unsplash.jpg" />
         <h2>Lorem ipsum dolor sit</h2>
         <h3>R$ <span>50,00</span></h3>
       </div>
 
-      <div class="produtos-item" data-anime="top">
+      <div class="produtos-item">
         <img src="../../assets/nery-montenegro-SmEty_TVr80-unsplash.jpg" />
         <h2>Lorem ipsum dolor sit</h2>
         <h3>R$ <span>50,00</span></h3>
       </div>
 
-      <div class="produtos-item" data-anime="left">
+      <div class="produtos-item">
         <img src="../../assets/olena-sergienko-GOVTETevRm8-unsplash.jpg" />
         <h2>Lorem ipsum dolor sit</h2>
         <h3>R$ <span>50,00</span></h3>
       </div>
 
-      <div class="produtos-item" data-anime="top">
+      <div class="produtos-item">
         <img src="../../assets/pharma-hemp-complex-tAzdKblAinw-unsplash.jpg" />
         <h2>Lorem ipsum dolor sit</h2>
         <h3>R$ <span>50,00</span></h3>
       </div>
 
-      <div class="produtos-item" data-anime="right">
+      <div class="produtos-item">
         <img src="../../assets/phaedra-botanicals-uFAHrKYkTVI-unsplash.jpg" />
         <h2>Lorem ipsum dolor sit</h2>
         <h3>R$ <span>50,00</span></h3>
       </div>
 
-      <div class="produtos-item" data-anime="top">
+      <div class="produtos-item">
         <img src="../../assets/pharma-hemp-complex-yVAXSK6zFIM-unsplash.jpg" />
         <h2>Lorem ipsum dolor sit</h2>
         <h3>R$ <span>50,00</span></h3>
       </div>
 
-      <div class="produtos-item" data-anime="right">
+      <div class="produtos-item">
         <img src="../../assets/chandra-oh-y5hRv6UNKMg-unsplash.jpg" />
         <h2>Lorem ipsum dolor sit</h2>
         <h3>R$ <span>50,00</span></h3>
